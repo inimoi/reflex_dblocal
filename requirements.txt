@@ -1,1 +1,5 @@
 reflex==0.7.1
+reflex_local_auth
+python-decouple
+psycopg2-binary
+
