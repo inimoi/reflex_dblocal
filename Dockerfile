@@ -1,11 +1,11 @@
-FROM python:3.12
+FROM python:3.11-slim
 
 WORKDIR /app
 
 # Create reflex user
 RUN adduser --disabled-password --home /app reflex
 
-RUN python -m venv /app/.venv
+RUN python3 -m venv /app/.venv
 ENV PATH="/app/.venv/bin:$PATH"
 
 # Copy the application files
@@ -17,7 +17,6 @@ RUN chown -R reflex:reflex /app
 # Switch to reflex user
 USER reflex
 
-RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Initialize Reflex
