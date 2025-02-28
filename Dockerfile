@@ -6,7 +6,7 @@ WORKDIR /app
 RUN adduser --disabled-password --home /app reflex
 
 RUN python -m venv /app/.venv
-ENV PATH="/app/.venv/bin:$PATH
+ENV PATH="/app/.venv/bin:$PATH"
 
 # Copy the application files
 COPY --chown=reflex:reflex . /app
