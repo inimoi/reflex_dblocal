@@ -3,7 +3,7 @@ FROM python:3.12
 WORKDIR /app
 COPY . .
 
-ENV VIRTUAL_ENV=/app/.venv_docker
+ENV VIRTUAL_ENV=.venv_docker
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 RUN python -m venv $VIRTUAL_ENV
 
