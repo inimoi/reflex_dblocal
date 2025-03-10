@@ -1,12 +1,14 @@
 import reflex as rx
-from decouple import config
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 
-DATABASE_URL = config("DATABASE_URL")
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 config = rx.Config(
     app_name="reflex_dblocal_venv",
     db_url=DATABASE_URL,
-    api_url="http://localhost:8008",
+    api_url="http://185.166.214.210:8000",
     cors_allowed_origins = ['*']
 )
