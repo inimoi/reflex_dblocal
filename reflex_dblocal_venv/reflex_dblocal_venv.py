@@ -11,7 +11,7 @@ class State(rx.State):
 
     ...
 
-@reflex_local_auth.require_login
+
 def index() -> rx.Component:
     # Welcome Page (Index)
     return rx.container(
