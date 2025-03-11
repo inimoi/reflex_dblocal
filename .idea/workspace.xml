@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1fcde42c-18a9-4946-b65a-37c99bb1e55e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflex_dblocal_venv/api/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/reflex_dblocal_venv/api/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflex_dblocal_venv/reflex_dblocal_venv.py" beforeDir="false" afterPath="$PROJECT_DIR$/reflex_dblocal_venv/reflex_dblocal_venv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rxconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/rxconfig.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
