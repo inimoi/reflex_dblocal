@@ -9,6 +9,6 @@ DATABASE_URL = os.getenv("DATABASE_URL")
 config = rx.Config(
     app_name="reflex_dblocal_venv",
     db_url=DATABASE_URL,
-    #api_url="http://185.166.214.210:8000",
-    #cors_allowed_origins ="https://reflex-dblocal.vercel.app/"
+    api_url="https://reflexdblocal-production.up.railway.app/",
+    #cors_allowed_origins =["https://reflex-dblocal.vercel.app/"]
 )

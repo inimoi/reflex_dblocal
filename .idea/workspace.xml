@@ -7,6 +7,17 @@
     <list default="true" id="1fcde42c-18a9-4946-b65a-37c99bb1e55e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/_next/static/chunks/pages/_app-1ff457f4cd75a4f1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/_next/static/chunks/pages/login-3c3573a6bcdfd18f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/_next/static/chunks/pages/register-d99b8ab448c491ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/_next/static/lKv-Xd0LivBO0aM1qXKd4/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/_next/static/lKv-Xd0LivBO0aM1qXKd4/_ssgManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/login/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/register/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/register/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap-0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap-0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rxconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/rxconfig.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
